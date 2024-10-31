@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Cat Breed</string>
+    <string name="cat_list">Jenis Kucing</string>
+    <string name="cat_description">Deskripsi kucing</string>
+    <string name="details_btn">Details</string>
+    <string name="personality_title">Personality</string>
+    <string name="Description_title">Description</string>
+    <string name="care_title">Care</string>"
+    <string name="profile_title">Profile</string>
+    <string name="my_name">Christian Fernando</string>
+    <string name="my_email">christianfernando671@gmail.com</string>
+
+
+    <string-array name="cat_data_breed">
+        <item>Persia</item>
+        <item>Siamese</item>
+        <item>Maine Coon</item>
+        <item>British Shorthair</item>
+        <item>Ragdoll</item>
+        <item>Bengal</item>
+        <item>Sphynx</item>
+        <item>Scottish Fold</item>
+        <item>Abyssinian</item>
+        <item>Norwegian Forest Cat</item>
+    </string-array>
+
+    <string-array name="cat_data_personality">
+        <item>Mereka dikenal sebagai kucing yang tenang dan santai, sering kali sangat bersahabat dengan manusia.</item>
+        <item>Sangat sosial dan vokal, mereka senang berinteraksi dengan manusia dan sering kali menjadi "penjaga" yang setia.</item>
+        <item>Dikenal sebagai kucing yang ramah, cerdas, dan penuh rasa ingin tahu.</item>
+        <item>Mereka umumnya tenang dan mandiri, tetapi juga sangat setia kepada pemiliknya.</item>
+        <item>Sangat lembut dan suka dipeluk, mereka cenderung mengikuti pemiliknya kemanapun.</item>
+        <item>Sangat aktif, cerdas, dan suka bermain, mereka memerlukan banyak stimulasi mental dan fisik.</item>
+        <item>Sangat ramah, sosial, dan penuh kasih sayang, mereka suka berinteraksi dengan orang lain.</item>
+        <item>Sangat manis, ramah, dan mudah beradaptasi dengan lingkungan baru.</item>
+        <item>Sangat aktif, cerdas, dan ingin tahu mereka suka bermain dan menjelajah.</item>
+        <item>Sangat mandiri dan kuat, tetapi juga bersahabat dan suka berinteraksi.</item>
+    </string-array>
+
+    <string-array name="cat_data_care">
+        <item>Memerlukan perawatan bulu harian untuk mencegah kusut dan menjaga kebersihan wajah mereka dari air mata.</item>
+        <item>Bulu pendeknya mudah dirawat, cukup disikat seminggu sekali.</item>
+        <item>Diperlukan penyikatan rutin, terutama saat pergantian musim.</item>
+        <item>Bulu pendeknya mudah dirawat; cukup disikat seminggu sekali.</item>
+        <item>Perlu disikat setidaknya dua kali seminggu untuk menjaga bulunya tetap rapi.</item>
+        <item>Bulu pendeknya mudah dirawat, tetapi mereka membutuhkan aktivitas fisik yang cukup.</item>
+        <item>Meskipun tidak berbulu, mereka memerlukan perawatan kulit untuk menghindari penumpukan minyak.</item>
+        <item>Bulu pendeknya mudah dirawat cukup disikat secara berkala.</item>
+        <item>Bulu pendeknya mudah dirawat, cukup disikat seminggu sekali.</item>
+        <item>Diperlukan penyikatan rutin, terutama untuk menjaga bulu tetap bebas kusut.</item>
+    </string-array>
+
+    <string-array name="cat_data_description">
+        <item>Kucing Persia adalah salah satu ras kucing tertua dan paling dikenal di dunia. Mereka memiliki ciri khas wajah datar dengan hidung kecil dan pipi yang bulat, memberikan tampilan yang manis. Bulu panjangnya yang lebat dan halus memberikan kesan kemewahan, sering kali memerlukan perawatan ekstra untuk menjaga kebersihan dan mencegah kusut. Warna bulu Persia bervariasi, mulai dari putih, hitam, cokelat, hingga campuran berbagai warna. Kucing ini biasanya memiliki sifat tenang dan damai, sangat menyukai kehadiran manusia dan sering kali mencari perhatian dan kasih sayang.</item>
+        <item>Kucing Siamese terkenal dengan penampilannya yang menonjol dan suara khasnya. Dengan tubuh ramping, kaki panjang, dan mata biru cerah yang mencolok, mereka sangat mudah dikenali. Pola warna pada wajah, telinga, kaki, dan ekor menciptakan kontras yang indah dengan bulu mereka yang biasanya berwarna krem. Mereka sangat sosial dan vokal, suka berinteraksi dengan pemilik dan sering "mengobrol" dengan nada yang khas. Kucing ini juga dikenal cerdas dan penuh rasa ingin tahu, sehingga mereka membutuhkan stimulasi mental yang cukup untuk mencegah kebosanan.</item>
+        <item>Maine Coon adalah salah satu ras kucing terbesar, dikenal dengan ukuran tubuhnya yang besar dan bulu tebal yang melindungi mereka dari cuaca dingin. Mereka memiliki telinga runcing dengan jumbai bulu dan ekor panjang yang lebat. Karakteristik ini membuat mereka terlihat seperti "kucing hutan." Maine Coon sangat ramah, cerdas, dan bersahabat, sering kali dikenal sebagai "anjing dalam tubuh kucing" karena sifat loyalitas dan keinginan mereka untuk berinteraksi dengan pemilik. Mereka juga suka bermain dan menjelajah, sehingga lingkungan yang merangsang sangat penting untuk kebahagiaan mereka.</item>
+        <item>British Shorthair adalah salah satu ras kucing paling populer di dunia, dikenal dengan bentuk tubuh yang kekar dan bulu pendek yang padat. Mereka memiliki wajah bulat dengan pipi penuh dan mata besar yang memberikan tampilan yang menggemaskan. Ras ini sangat tenang dan mandiri, tetapi juga bisa sangat penuh kasih sayang kepada pemiliknya. Mereka memiliki kepribadian yang stabil dan santai, sehingga cocok untuk hidup di rumah dengan anak-anak atau hewan peliharaan lainnya. Meskipun mereka tidak terlalu aktif, mereka tetap membutuhkan perhatian dan interaksi yang cukup dari pemiliknya.</item>
+        <item>Ragdoll adalah kucing besar dengan bulu panjang yang lembut dan mata biru yang indah. Mereka dikenal karena sifatnya yang lembut dan santai; sering kali, mereka akan "meleleh" saat diangkat, menjadikan mereka sangat mudah untuk dipeluk. Ragdoll memiliki pola warna yang bervariasi, termasuk mitted, bicolor, dan colorpoint. Mereka sangat bersahabat dan suka berinteraksi dengan pemilik, sering kali mengikuti mereka dari ruangan ke ruangan. Dengan sifat yang tenang dan cinta kasih, Ragdoll cocok untuk keluarga dan individu yang mencari kucing yang penuh kasih.</item>
+        <item>Kucing Bengal adalah ras yang menarik perhatian karena pola bulu mereka yang mirip dengan macan tutul. Bulu mereka pendek dan halus dengan corak beragam, memberikan tampilan yang eksotis dan indah. Kucing ini sangat aktif dan energik, membutuhkan banyak stimulasi mental dan fisik. Mereka cerdas dan penasaran, suka bermain dan menjelajahi lingkungan mereka. Meskipun mereka memiliki sifat liar yang kuat, Bengal juga sangat setia kepada pemiliknya dan bisa menjadi sangat mencintai. Kucing ini membutuhkan banyak perhatian dan aktivitas untuk mencegah kebosanan dan menjaga kesehatan mental mereka.</item>
+        <item>Kucing Sphynx terkenal dengan penampilannya yang unik, yaitu tidak memiliki bulu. Mereka memiliki kulit yang lembut dan keriput yang memberikan daya tarik tersendiri. Meskipun tampak berbeda, Sphynx sangat ramah, sosial, dan penuh kasih sayang. Mereka suka berinteraksi dengan manusia dan sering kali mencari kehangatan dengan berbaring di dekat pemiliknya. Karena tidak berbulu, mereka memerlukan perawatan kulit yang tepat untuk menghindari penumpukan minyak. Kucing ini juga dikenal cerdas dan penuh energi, sehingga mereka membutuhkan stimulasi yang cukup untuk menjaga kebahagiaan mereka.</item>
+        <item>Scottish Fold adalah ras kucing yang dikenal dengan telinga yang melipat ke depan, memberikan tampilan yang unik dan menggemaskan. Mereka memiliki wajah bulat dengan mata besar dan ekspresi yang lembut. Kucing ini sangat bersahabat, mudah beradaptasi, dan suka berinteraksi dengan orang lain. Sifat mereka yang tenang membuatnya menjadi teman yang ideal di rumah. Scottish Fold umumnya memiliki bulu pendek, yang mudah dirawat; cukup disikat secara berkala untuk menjaga kebersihan. Mereka suka bermain, tetapi juga menikmati waktu santai dengan pemiliknya.</item>
+        <item>Abyssinian adalah salah satu ras kucing tertua yang dikenal dengan bulu pendek dan pola ticked yang khas. Bulu mereka memberikan efek berkilau saat terkena cahaya, membuat mereka terlihat sangat menarik. Kucing ini sangat aktif, cerdas, dan penuh rasa ingin tahu, selalu ingin menjelajahi dan bermain. Mereka sangat sosial dan sering kali suka berinteraksi dengan pemiliknya, kadang-kadang bahkan bisa belajar beberapa trik. Abyssinian membutuhkan perhatian dan stimulasi mental yang cukup untuk tetap bahagia dan terjaga.</item>
+        <item>Norwegian Forest Cat adalah ras kucing besar dengan bulu tebal dan rimbun, dirancang untuk bertahan di iklim dingin. Mereka memiliki tubuh yang kuat, dengan kaki yang besar dan jari-jari yang lebar. Kucing ini sangat mandiri dan kuat, tetapi juga bisa sangat bersahabat dengan pemiliknya. Mereka dikenal sebagai penjaga rumah yang baik dan memiliki sifat penyayang, meskipun mereka membutuhkan ruang untuk bergerak dan menjelajah. Norwegian Forest Cat memerlukan penyikatan rutin untuk menjaga bulu mereka tetap rapi dan bebas kusut, terutama saat pergantian musim.</item>
+    </string-array>
+
+    <integer-array name="cat_data_photo">
+        <item>@drawable/persia</item>
+        <item>@drawable/siamese</item>
+        <item>@drawable/maine_coon</item>
+        <item>@drawable/british_shothair</item>
+        <item>@drawable/ragdoll</item>
+        <item>@drawable/bengal</item>
+        <item>@drawable/sphynx</item>
+        <item>@drawable/scottish_fold</item>
+        <item>@drawable/abyssinian</item>
+        <item>@drawable/norwegina_forest_cat</item>
+    </integer-array>
+
+
+</resources>
