@@ -5,7 +5,6 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/light_blue"
     tools:context=".DetailScreen">
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -97,6 +96,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:textSize="16sp"
+
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="@+id/tv_cat_personality_title"
                     app:layout_constraintStart_toStartOf="@+id/tv_cat_personality_title"
@@ -139,6 +139,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:textSize="16sp"
+
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="@+id/tv_care_title"
                     app:layout_constraintStart_toStartOf="@+id/tv_care_title"
