@@ -2,7 +2,7 @@
 <resources >
     <style name="Theme.MyApp.MySplash" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">#FFFFFF</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/avd_cat</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logokucing</item>
         <item name="postSplashScreenTheme">@style/Theme.CatList</item>
     </style>
 </resources>
